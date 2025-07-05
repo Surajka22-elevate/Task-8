@@ -1,3 +1,11 @@
+![Screenshot 2025-07-05 105903](https://github.com/user-attachments/assets/2affda10-5c10-4772-8c78-67f9bf493ad2)
+
+![Screenshot 2025-07-05 105930](https://github.com/user-attachments/assets/09d56025-699e-4959-8bdb-4f390613e36a)
+
+![Screenshot 2025-07-05 110633](https://github.com/user-attachments/assets/5a153c16-b3b4-489c-8d4e-e48f8758048f)
+
+ 
+ 
  Task 8: Working with VPNs
 
  Objective
