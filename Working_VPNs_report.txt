@@ -1,0 +1,42 @@
+
+Task 8: Working with VPNs
+
+Objective:
+Understand the role of VPNs in protecting privacy and secure communication.
+
+VPN Used:
+ProtonVPN (Connected to Netherlands Server)
+
+Steps Performed:
+1. Downloaded and installed ProtonVPN.
+2. Signed up for a free account and logged in.
+3. Connected to a server located in the Netherlands.
+4. Verified IP address before and after VPN connection:
+   - Before VPN IP: 157.32.43.190
+   - After VPN IP: 190.2.149.74
+5. Confirmed successful VPN connection by checking changed IP address on whatismyipaddress.com.
+6. Opened HTTPS websites (e.g., https://google.com) and confirmed traffic was encrypted (lock icon visible).
+7. Disconnected VPN and confirmed IP address reverted to a real ISP IP: 157.32.40.250
+8. Researched VPN encryption and privacy features.
+
+Findings:
+- VPN successfully masked the original IP address and replaced it with one from the Netherlands.
+- HTTPS traffic was encrypted and secure.
+- The VPN uses strong encryption standards like AES-256 to protect data.
+- Browsing speed slightly reduced while connected to VPN due to encryption overhead.
+- Upon disconnection, the IP address returned to 157.32.40.250, confirming the VPN was no longer active.
+
+VPN Benefits:
+- Hides real IP address and location
+- Encrypts internet traffic
+- Helps bypass geo-restrictions
+- Protects against network sniffing, especially on public Wi-Fi
+
+VPN Limitations:
+- Does not protect against phishing or malware
+- Some free VPNs may log data
+- May reduce internet speed
+- Cannot guarantee 100% anonymity
+
+Conclusion:
+Using a VPN enhances privacy and security when browsing online. It is a useful tool for protecting data, especially on unsecured networks. However, users must be aware of its limitations and avoid relying solely on VPNs for complete security.
